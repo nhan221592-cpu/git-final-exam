@@ -1,0 +1,6 @@
+Tính năng A: Hệ thống tự động tạo báo cáo học tập.
+1. Người dùng nhập thông tin học tập.
+2. Chương trình tổng hợp dữ liệu tự động.
+3. Kết quả được xuất ra file báo cáo.
+4. Có thể lưu lại trên GitHub.
+5. Hỗ trợ chia sẻ nhóm.
